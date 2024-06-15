@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @darkdenliondi
+- 👋 Hi, I’m leotaci
 - 👀 I’m interested in pentesting field
 - 🌱 I’m currently learning with offensive security
 - 💞️ I’m looking to collaborate on some pentesting scripts
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: nothing is fun.
 
 <!---
 darkdenliondi/darkdenliondi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
