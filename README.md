@@ -32,17 +32,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darkdenlion&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkdenlion&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkdenlion&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak">
-</p>
-
 ## Currently Working On
 
 - macOS productivity applications with SwiftUI
